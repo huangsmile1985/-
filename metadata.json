@@ -1,0 +1,5 @@
+{
+  "name": "Chromatography Method Development Expert (DOE Driven)",
+  "description": "An AI-powered application that leverages Design of Experiments (DOE) principles to help analytical chemists optimize HPLC/GC methods efficiently. Users input compound properties and desired variables, and the app generates a DOE matrix, analyzes experimental results, and provides expert recommendations for optimal chromatographic conditions.",
+  "requestFramePermissions": []
+}
